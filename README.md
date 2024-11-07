@@ -22,7 +22,7 @@ Build a simple Flask-based API that simulates a chatbot interaction and includes
 
 # run python flask app:
 
-`python app.py`
+`python app.py or python run.py `
 
 # Endpoints:
 
