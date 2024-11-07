@@ -26,7 +26,7 @@ create .env in root level add this Note: this is testing secret Key provided in 
 
 # run python flask app:
 
-`python app.py or python run.py `
+`python run.py `
 
 # Endpoints:
 
