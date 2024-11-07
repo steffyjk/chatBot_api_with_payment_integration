@@ -18,7 +18,11 @@ Build a simple Flask-based API that simulates a chatbot interaction and includes
 
 # SET up the env secrets in .env file as per .env-example file
 
-`STRIPE_SECRET_KEY=your_stripe_secret_key_here
+create .env in root level add this Note: this is testing secret Key provided in official Stripe DOC.
+
+`STRIPE_SECRET_KEY='sk_test_tR3PYbcVNZZ796tH88S4VQ2u'`
+
+
 
 # run python flask app:
 
