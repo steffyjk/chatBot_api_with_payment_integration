@@ -1,6 +1,6 @@
 import os
 import stripe
-from flask import Flask, jsonify, request, redirect, url_for
+from flask import Flask, jsonify, request, url_for
 from dotenv import load_dotenv
 
 load_dotenv()
